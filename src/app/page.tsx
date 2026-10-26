@@ -254,7 +254,7 @@ const faqs = [
   {
     question: "How can I request product information or a quotation?",
     answer:
-      `Call ${primaryPhoneDisplay}, message +971 54 712 6700, or email sterileuae@gmail.com. Share your product, quantity and delivery requirements so the team can respond with the right information.`,
+      `Call ${primaryPhoneDisplay}, message +971 54 712 6700, or email Contact@sterileuae.com. Share your product, quantity and delivery requirements so the team can respond with the right information.`,
   },
 ];
 
@@ -467,7 +467,7 @@ export default function Home() {
 
       <section className="contact-section" id="contact">
         <div className="container contact-grid">
-          <Reveal className="reveal-column"><div className="contact-copy"><p className="eyebrow">Let’s make the next order easier</p><h2>Tell us what your team <em>needs.</em></h2><p>Share the product, quantity and delivery requirement. We’ll help you find the right format and next step.</p><div className="contact-buttons"><a className="button button-primary" href="mailto:sterileuae@gmail.com">Email the team <Icon name="mail" /></a><a className="button button-outline" href={whatsappUrl} target="_blank" rel="noreferrer">WhatsApp <Icon name="arrow" /></a></div></div></Reveal>
+          <Reveal className="reveal-column"><div className="contact-copy"><p className="eyebrow">Let’s make the next order easier</p><h2>Tell us what your team <em>needs.</em></h2><p>Share the product, quantity and delivery requirement. We’ll help you find the right format and next step.</p><div className="contact-buttons"><a className="button button-primary" href="mailto:Contact@sterileuae.com">Email the team <Icon name="mail" /></a><a className="button button-outline" href={whatsappUrl} target="_blank" rel="noreferrer">WhatsApp <Icon name="arrow" /></a></div></div></Reveal>
           <Reveal className="reveal-column" delay={100}>
             <div className="contact-visual">
               <div className="map-card">
@@ -475,7 +475,7 @@ export default function Home() {
                 <iframe title="Sterile Manufacturing location in Ajman, UAE" src={mapEmbedUrl} loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
                 <a className="map-card-link" href={mapUrl} target="_blank" rel="noreferrer">Open in Google Maps <Icon name="arrow" /></a>
               </div>
-              <div className="contact-card"><div className="contact-card-top"><span className="brand-symbol small" aria-hidden="true"><span className="brand-symbol-top" /><span className="brand-symbol-bottom" /><span className="brand-symbol-bar" /></span><span>STERILE / CONTACT</span></div><div className="contact-details"><a href={`tel:${primaryPhone}`}><span className="detail-icon"><Icon name="phone" /></span><span><small>Call</small>{primaryPhoneDisplay}</span></a><a href="mailto:sterileuae@gmail.com"><span className="detail-icon"><Icon name="mail" /></span><span><small>Email</small>sterileuae@gmail.com</span></a></div><div className="contact-card-bottom"><span>Open to regional supply conversations</span><a href={mapUrl} target="_blank" rel="noreferrer">Get directions <Icon name="arrow" /></a></div></div>
+              <div className="contact-card"><div className="contact-card-top"><span className="brand-symbol small" aria-hidden="true"><span className="brand-symbol-top" /><span className="brand-symbol-bottom" /><span className="brand-symbol-bar" /></span><span>STERILE / CONTACT</span></div><div className="contact-details"><a href={`tel:${primaryPhone}`}><span className="detail-icon"><Icon name="phone" /></span><span><small>Call</small>{primaryPhoneDisplay}</span></a><a href="mailto:Contact@sterileuae.com"><span className="detail-icon"><Icon name="mail" /></span><span><small>Email</small>Contact@sterileuae.com</span></a></div><div className="contact-card-bottom"><span>Open to regional supply conversations</span><a href={mapUrl} target="_blank" rel="noreferrer">Get directions <Icon name="arrow" /></a></div></div>
             </div>
           </Reveal>
         </div>

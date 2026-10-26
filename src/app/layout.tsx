@@ -62,7 +62,7 @@ const organizationSchema = {
   description:
     "UAE manufacturer of single-use medical disposables and custom paper cups.",
   telephone: "+971503755006",
-  email: "sterileuae@gmail.com",
+  email: "Contact@sterileuae.com",
   address: {
     "@type": "PostalAddress",
     streetAddress: "Al Jerf Industrial 2",

@@ -18,7 +18,7 @@ Business facts to use:
 - Location: Al Jerf Industrial 2, Ajman, United Arab Emirates.
 - Products referenced in the catalogues: medicine cups, rectangular basins, sharps containers, specimen containers, male urinals, kidney trays, stool containers and deep bottles.
 - Paper cup line: custom sizes, colours, printed patterns and brand messages; double-wall formats shown as 4 oz, 6.5 oz, 8 oz and 12 oz.
-- Contact: +971 50 375 5006; WhatsApp +971 54 712 6700; sterileuae@gmail.com.
+- Contact: +971 50 375 5006; WhatsApp +971 54 712 6700; Contact@sterileuae.com.
 - Location CTA: https://maps.app.goo.gl/EyXq4t2A1N3cCCjSA
 - Instagram handle: @sterilemanufacturing.
 
